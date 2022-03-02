@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multiple-slices-with-redux-toolkit/static/css/main.e9be0b14.css",
+    "main.js": "/multiple-slices-with-redux-toolkit/static/js/main.9c714b47.js",
+    "index.html": "/multiple-slices-with-redux-toolkit/index.html",
+    "main.e9be0b14.css.map": "/multiple-slices-with-redux-toolkit/static/css/main.e9be0b14.css.map",
+    "main.9c714b47.js.map": "/multiple-slices-with-redux-toolkit/static/js/main.9c714b47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9be0b14.css",
+    "static/js/main.9c714b47.js"
+  ]
+}
